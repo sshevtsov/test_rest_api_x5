@@ -1,0 +1,9 @@
+insert into CHARACTERISTIC (WEIGHT, COLOR, MEMORY) values (100, 'RED', 512);
+insert into CHARACTERISTIC (WEIGHT, COLOR, MEMORY) values (123, 'BLACK', 1024);
+insert into PRODUCT (NAME, CHARACTERISTIC_ID) values ('IPHONE', 1);
+insert into PRODUCT (NAME, CHARACTERISTIC_ID) values ('IPAD', 2);
+
+
+
+
+
